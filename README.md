@@ -39,6 +39,6 @@ src/
 
 └── peptide.py
 
-tests/
+test/
 
 └── test_peptide.py
